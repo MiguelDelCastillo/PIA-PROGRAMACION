@@ -1,0 +1,1 @@
+Contactos.append(Contacto('JFCC','Fernando','chaves@hotmail.com'))
